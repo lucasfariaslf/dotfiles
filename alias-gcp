@@ -6,5 +6,7 @@
 
 # conexao com vms
 
-# 
+# ls em buckets
+
+gsutil ls -l gs://my-awesome-bucket/
 
